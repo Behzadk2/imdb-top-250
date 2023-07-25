@@ -180,5 +180,191 @@
       "rank": 30,
       "imdb_id": "tt0816692"
     }
+     {
+      "title": "Whiplash",
+      "year": 2014,
+      "rank": 30,
+      "imdb_id": "tt2582802"
+    },
+    {
+      "title": "The Intouchables",
+      "year": 2011,
+      "rank": 31,
+      "imdb_id": "tt1675434"
+    },
+    {
+      "title": "The Prestige",
+      "year": 2006,
+      "rank": 32,
+      "imdb_id": "tt0482571"
+    },
+    {
+      "title": "The Departed",
+      "year": 2006,
+      "rank": 33,
+      "imdb_id": "tt0407887"
+    },
+    {
+      "title": "Gladiator",
+      "year": 2000,
+      "rank": 34,
+      "imdb_id": "tt0172495"
+    },
+    {
+      "title": "The Pianist",
+      "year": 2002,
+      "rank": 35,
+      "imdb_id": "tt0253474"
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "rank": 36,
+      "imdb_id": "tt0209144"
+    },
+    {
+      "title": "The Green Mile",
+      "year": 1999,
+      "rank": 37,
+      "imdb_id": "tt0120689"
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "rank": 38,
+      "imdb_id": "tt0816692"
+    },
+    {
+      "title": "Django Unchained",
+      "year": 2012,
+      "rank": 39,
+      "imdb_id": "tt1853728"
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "rank": 40,
+      "imdb_id": "tt1345836"
+    },
+    {
+      "title": "The Lion King",
+      "year": 1994,
+      "rank": 41,
+      "imdb_id": "tt0110357"
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "rank": 42,
+      "imdb_id": "tt0103064"
+    },
+    {
+      "title": "American History X",
+      "year": 1998,
+      "rank": 43,
+      "imdb_id": "tt0120586"
+    },
+    {
+      "title": "Once Upon a Time in the West",
+      "year": 1968,
+      "rank": 44,
+      "imdb_id": "tt0064116"
+    },
+    {
+      "title": "Coco",
+      "year": 2017,
+      "rank": 45,
+      "imdb_id": "tt2380307"
+    },
+    {
+      "title": "Das Boot",
+      "year": 1981,
+      "rank": 46,
+      "imdb_id": "tt0082096"
+    },
+    {
+      "title": "Cidade de Deus",
+      "year": 2002,
+      "rank": 47,
+      "imdb_id": "tt0317248"
+    },
+    {
+      "title": "3 Idiots",
+      "year": 2009,
+      "rank": 48,
+      "imdb_id": "tt1187043"
+    },
+    {
+      "title": "Hamilton",
+      "year": 2020,
+      "rank": 49,
+      "imdb_id": "tt8503618"
+    },
+    {
+      "title": "Taare Zameen Par",
+      "year": 2007,
+      "rank": 50,
+      "imdb_id": "tt0986264"
+    },
+    {
+      "title": "Gladiator",
+      "year": 2000,
+      "rank": 51,
+      "imdb_id": "tt0172495"
+    },
+    {
+      "title": "The Lives of Others",
+      "year": 2006,
+      "rank": 52,
+      "imdb_id": "tt0405094"
+    },
+    {
+      "title": "Joker",
+      "year": 2019,
+      "rank": 53,
+      "imdb_id": "tt7286456"
+    },
+    {
+      "title": "Paths of Glory",
+      "year": 1957,
+      "rank": 54,
+      "imdb_id": "tt0050825"
+    },
+    {
+      "title": "The Shining",
+      "year": 1980,
+      "rank": 55,
+      "imdb_id": "tt0081505"
+    },
+    {
+      "title": "WALL·E",
+      "year": 2008,
+      "rank": 56,
+      "imdb_id": "tt0910970"
+    },
+    {
+      "title": "American Beauty",
+      "year": 1999,
+      "rank": 57,
+      "imdb_id": "tt0169547"
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "rank": 58,
+      "imdb_id": "tt1345836"
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "rank": 59,
+      "imdb_id": "tt0364569"
+    },
+    {
+      "title": "Braveheart",
+      "year": 1995,
+      "rank": 60,
+      "imdb_id": "tt0112573"
+    }
   ]
 }
